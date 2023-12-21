@@ -116,4 +116,17 @@ const writeToFile = data => {
 function init() {}
 
 // Function call to initialize app
-init();
+questions()
+
+.then(answers => {
+    return generatePage(answers);
+})
+
+.then(data => {
+    return writeFile(data);
+})
+// catch errors 
+.catch(err => {
+    console.log(err)
+})
+
