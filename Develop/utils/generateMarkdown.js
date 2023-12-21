@@ -23,9 +23,21 @@ function generateMarkdown(data) {
   * [Tests](#tests)
   * [Questions](#questions)
   
+
+  ## Installation 
+    ${data.install}
+
+    ## Usage 
+    ${data.usage}
+
+    ## License 
+    This project is license under ${data.license}
+
+    ## Contributing 
+    ${data.contributors}
+
+    ## Tests
+    ${data.test}
   `;
 }
-
-
-
 module.exports = generateMarkdown;
