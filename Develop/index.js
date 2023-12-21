@@ -83,14 +83,34 @@ const questions = () => {
             }
         },
         
-     
-            
-
-
-
+        {
+            type: 'input',
+            name: 'test', 
+            message: 'Command for running tests',
+            default: 'npm test'
+        },
+        {
+            type: 'input',
+            name: 'contributors',
+            message: 'List people who contributed to the repo.'
+        }
+    ]);
+};            
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+
+const writeToFile = data => {
+    fs.writeToFile('README.md', data, err => {
+        
+        if (err) {
+            console.log(err);
+            return;
+    
+        } else {
+            console.log("You created a useful README page!")
+        }
+    })
+}; 
 
 // TODO: Create a function to initialize app
 function init() {}
