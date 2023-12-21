@@ -4,9 +4,7 @@ const inquirer = require('inquirer');
 
 const generateReadmePage = require('./utils/generateMarkdown.js');
 
-
 // TODO: Create an array of questions for user input
-
 const questions = () => {
 
     return inquirer.prompt([
@@ -21,11 +19,11 @@ const questions = () => {
                 if (nameInput) {
                     return true;
                 } else {
-                    console.log('Please enter project name!');
+                    console.log('Please enter project name.');
                     return false; 
                 }
             }
-        },    
+        },   
 
             {
                 type: 'input',
@@ -35,7 +33,7 @@ const questions = () => {
                     if (nameInput) {
                         return true;
                     } else {
-                        console.log('Please enter GitHub username!');
+                        console.log('Please enter GitHub username.');
                         return false; 
                     }
                 } 
@@ -49,7 +47,7 @@ const questions = () => {
                     if (nameInput) {
                         return true;
                     } else {
-                        console.log('Please enter description of project!');
+                        console.log('Please enter description of project.');
                         return false; 
                     }
                 }
@@ -63,13 +61,13 @@ const questions = () => {
                     if (nameInput) {
                         return true;
                     } else {
-                        console.log('Please enter email address!');
+                        console.log('Please enter email address.');
                         return false; 
                     }
                 }
         
             },   
-        },
+},
 
 
 
