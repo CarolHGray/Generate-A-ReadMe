@@ -6,7 +6,12 @@ const generateReadmePage = require('./utils/generateMarkdown.js');
 
 
 // TODO: Create an array of questions for user input
-const questions = [];
+
+const questions = () => {
+    // using inquirer to prompt questions to user 
+    return inquirer.prompt([
+    {}
+};
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
