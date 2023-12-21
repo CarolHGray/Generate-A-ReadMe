@@ -123,10 +123,9 @@ questions()
 })
 
 .then(data => {
-    return writeFile(data);
+    return writeToFile(data);
 })
 // catch errors 
 .catch(err => {
     console.log(err)
 })
-
