@@ -119,7 +119,7 @@ function init() {}
 questions()
 
 .then(answers => {
-    return generatePage(answers);
+    return generateReadmePage(answers);
 })
 
 .then(data => {
