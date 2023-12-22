@@ -13,10 +13,11 @@
   * [Questions](#questions)
   
     ## Installation 
-    undefined
+    User should clone repository from Github and download node.   Enable use of file system (fs) and inquirer module to use the application.  
 
     ## Usage 
-    undefined
+    Employ inquirer from command line to supply info about the project. 
+    View link here:  [Screencastify](https://drive.google.com/file/view)
 
     ## License 
     This project is license under MIT
