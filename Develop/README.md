@@ -29,4 +29,8 @@
 
   ## Tests
    * npm test
+
+  ## Questions
+   * If you have questions about this project, let me know!  [GitHub](https://github.com/CarolHGray)
+     
   
