@@ -17,10 +17,10 @@ function generateMarkdown(data) {
   
 
   ## Installation 
-    ${data.install}
+    * ${data.install}
 
-    ## Usage 
-    ${data.usage}
+  ## Usage 
+    * ${data.usage}
 
     ## License 
     This project is license under ${data.license}
