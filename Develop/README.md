@@ -14,19 +14,19 @@
   
 
   ## Installation 
-    User can clone the repository from Github, download Node for js, install file system and inquirer module to use this application. 
+   * User can clone the repository from Github, download Node for js, install file system and inquirer module to use this application. 
 
-    ## Usage 
-    Use inquirer from the command line and supply info about your project.  
-    View link here:  [Screencastify](https://drive.google.com/file/d/12SPuDwCze6Wz6QCg1MJx8TYrUHXSmk79/view).
+  ## Usage 
+   * Use inquirer from the command line and supply info about your project.  
+   * View link here:  [Screencastify](https://drive.google.com/file/d/12SPuDwCze6Wz6QCg1MJx8TYrUHXSmk79/view).
 
 
-    ## License 
-    This project is license under MIT
+  ## License 
+   * This project is license under MIT
 
-    ## Contributing 
-    UNCC Cohort
+  ## Contributing 
+   * UNCC Cohort
 
-    ## Tests
-    npm test
+  ## Tests
+   * npm test
   
