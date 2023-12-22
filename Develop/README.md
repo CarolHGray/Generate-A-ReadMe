@@ -1,8 +1,8 @@
-# Generate-A-ReadMe
+# Generate-A-Readme
   ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
-  Application to generate a professional looking README
+  Make a good ReadMe page
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,18 +12,18 @@
   * [Tests](#tests)
   * [Questions](#questions)
   
-    ## Installation 
-    User should clone repository from Github and download node.   Enable use of file system (fs) and inquirer module to use the application.  
+
+  ## Installation 
+    undefined
 
     ## Usage 
-    Employ inquirer from command line to supply info about the project. 
-    View link here:  [Screencastify](https://drive.google.com/file/view)
+    undefined
 
     ## License 
     This project is license under MIT
 
     ## Contributing 
-    UNCC Bootcamp Cohort
+    UNCC Cohort
 
     ## Tests
     npm test
