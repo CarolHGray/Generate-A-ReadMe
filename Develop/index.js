@@ -22,7 +22,6 @@ const questions = () => {
                 }
             }
         },  
-
         {
             type: 'input',
             name: 'github',
@@ -36,7 +35,6 @@ const questions = () => {
                 }
             } 
         },
-
         { 
             type: 'input',
             name: 'description',
@@ -50,7 +48,6 @@ const questions = () => {
                 }
             }
         }, 
-
         {
             type: 'input',
             name: 'email',
@@ -64,7 +61,6 @@ const questions = () => {
                 }
             }
         },   
-        
 
 //Write object for adding license information
         {
@@ -81,8 +77,7 @@ const questions = () => {
                     return false; 
                 }
             }
-        },
-        
+        },      
         {
             type: 'input',
             name: 'test', 
