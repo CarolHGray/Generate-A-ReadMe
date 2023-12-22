@@ -18,7 +18,7 @@
 
     ## Usage 
     Use inquirer from the command line and supply info about your project.  
-    View link here:  [Screencastify](https://drive.google.com/file/d/1L59uBnHWqkOiv5k9UkQEpBJuVX4CRidP/view).README_ Dec 21, 2023 10_36 PM.
+    View link here:  [Screencastify](https://drive.google.com/file/d/README_Dec2023.webm).
 
 
     ## License 
