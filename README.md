@@ -1,4 +1,8 @@
 
+##  This application generates a README page for your project!
+
+[Generate a README](https://github.com/CarolHGray/Generate-A-ReadMe/tree/main/Develop)
+
 ## User Story
 
 -AS A developer  
@@ -25,7 +29,7 @@
 -THEN I am taken to the corresponding section of the README  
 
 
-[Generate a README](https://github.com/CarolHGray/Generate-A-ReadMe/tree/main/Develop)
+
 
 
 
