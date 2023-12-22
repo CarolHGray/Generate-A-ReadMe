@@ -1,5 +1,3 @@
-# Generate a README file    
-
 
 ## User Story
 
