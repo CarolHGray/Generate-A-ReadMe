@@ -99,8 +99,8 @@ const questions = () => {
 
 // TODO: Create a function to write README file
 
-const writeToFile = data => {
-    fs.writeToFile('README.md', data, err => {
+const writeFile = data => {
+    fs.writeFile('README.md', data, err => {
         
         if (err) {
             console.log(err);
@@ -123,7 +123,7 @@ questions()
 })
 
 .then(data => {
-    return writeToFile(data);
+    return writeFile(data);
 })
 // catch errors 
 .catch(err => {
