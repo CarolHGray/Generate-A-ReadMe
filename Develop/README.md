@@ -1,8 +1,8 @@
-# a
+# Generate-A-ReadMe
   ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
-  d
+  Application to generate a professional looking README
 
   ## Table of Contents
   * [Installation](#installation)
@@ -23,7 +23,7 @@
     This project is license under MIT
 
     ## Contributing 
-    q
+    UNCC Bootcamp Cohort
 
     ## Tests
     npm test
